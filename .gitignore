@@ -1,0 +1,13 @@
+.idea/
+target/
+/**/*.iml
+out/
+CMakeLists.txt
+cmake*
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+.venv/
+/**/credentials*
+.gradle/
+build/
